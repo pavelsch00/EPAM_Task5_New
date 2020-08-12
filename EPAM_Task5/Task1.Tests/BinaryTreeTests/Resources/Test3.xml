@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Maxim</Name>
+    <TestName>TViMS</TestName>
+    <TestDate>18.02.2020</TestDate>
+    <Assessment>2</Assessment>
+  </Student>
+  <Student>
+    <Name>Rita</Name>
+    <TestName>MMA</TestName>
+    <TestDate>18.02.2020</TestDate>
+    <Assessment>3</Assessment>
+  </Student>
+  <Student>
+    <Name>Sasha</Name>
+    <TestName>TViMS</TestName>
+    <TestDate>18.02.2020</TestDate>
+    <Assessment>5</Assessment>
+  </Student>
+  <Student>
+    <Name>Pavel</Name>
+    <TestName>MMA</TestName>
+    <TestDate>18.02.2020</TestDate>
+    <Assessment>10</Assessment>
+  </Student>
+</ArrayOfStudent>

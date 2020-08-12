@@ -1,0 +1,29 @@
+Class version: 2.1.0.1
+<?xml version="1.0"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Name>Pavel</Name>
+    <City>Gomel</City>
+    <Country>Belarus</Country>
+  </Human>
+  <Human>
+    <Name>Maxim</Name>
+    <City>Minsk</City>
+    <Country>Belarus</Country>
+  </Human>
+  <Human>
+    <Name>Misha</Name>
+    <City>Moscow</City>
+    <Country>Russia</Country>
+  </Human>
+  <Human>
+    <Name>Rita</Name>
+    <City>Gomel</City>
+    <Country>Belarus</Country>
+  </Human>
+  <Human>
+    <Name>Kolya</Name>
+    <City>Grodno</City>
+    <Country>Belarus</Country>
+  </Human>
+</ArrayOfHuman>
